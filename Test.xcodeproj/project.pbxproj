@@ -12,6 +12,7 @@
 		CA228F6B1F48BD5600AEBB9E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = CA32F0041DE4B9A00073A74F /* main.m */; };
 		CA228F6C1F48BD7400AEBB9E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CA32F00C1DE4B9A00073A74F /* Main.storyboard */; };
 		CA228F6D1F48BD7400AEBB9E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CA32F0111DE4B9A00073A74F /* LaunchScreen.storyboard */; };
+		CA228F6F1F48C32A00AEBB9E /* .slather.yml in Resources */ = {isa = PBXBuildFile; fileRef = CA228F6E1F48C32A00AEBB9E /* .slather.yml */; };
 		CA32F0051DE4B9A00073A74F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = CA32F0041DE4B9A00073A74F /* main.m */; };
 		CA32F0081DE4B9A00073A74F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = CA32F0071DE4B9A00073A74F /* AppDelegate.m */; };
 		CA32F00B1DE4B9A00073A74F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CA32F00A1DE4B9A00073A74F /* ViewController.m */; };
@@ -32,6 +33,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		CA228F6E1F48C32A00AEBB9E /* .slather.yml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .slather.yml; sourceTree = "<group>"; };
 		CA32F0001DE4B9A00073A74F /* Test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Test.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA32F0041DE4B9A00073A74F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		CA32F0061DE4B9A00073A74F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -70,6 +72,7 @@
 		CA32EFF71DE4B9A00073A74F = {
 			isa = PBXGroup;
 			children = (
+				CA228F6E1F48C32A00AEBB9E /* .slather.yml */,
 				CA32F0021DE4B9A00073A74F /* Test */,
 				CA32F01C1DE4B9A00073A74F /* TestTests */,
 				CA32F0271DE4B9A00073A74F /* TestUITests */,
@@ -212,6 +215,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CA32F0131DE4B9A00073A74F /* LaunchScreen.storyboard in Resources */,
+				CA228F6F1F48C32A00AEBB9E /* .slather.yml in Resources */,
 				CA32F0101DE4B9A00073A74F /* Assets.xcassets in Resources */,
 				CA32F00E1DE4B9A00073A74F /* Main.storyboard in Resources */,
 			);
